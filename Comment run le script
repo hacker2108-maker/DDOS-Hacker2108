@@ -6,3 +6,6 @@ pkg install nano -y
 pkg install git -y         
 pip install socket
 pip install requests
+git clone https://github.com/hacker2108-maker/DDOS-Hacker2108.git
+cd DDOS-Hacker2108
+python DDOS-Hacker2108.py
