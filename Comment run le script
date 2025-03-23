@@ -1,0 +1,8 @@
+pkg update -y && pkg upgrade -y
+pkg install python -y      
+pkg install python2 -y     
+pkg install figlet -y      
+pkg install nano -y        
+pkg install git -y         
+pip install socket
+pip install requests
